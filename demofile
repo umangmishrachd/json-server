@@ -1,0 +1,8 @@
+data = [{"name" : "Riyaz", "Class":"BBA", "RollNo":101, "Marks":70},
+		{"name" : "Javed", "Class":"BCA", "RollNo":102, "Marks":60},
+		{"name" : "Arun", "Class":"MBA", "RollNo":103, "Marks":80},
+		{"name" : "Sunil", "Class":"MCA", "RollNo":104, "Marks":90},
+		{"name" : "Rahul", "Class":"BA", "RollNo":105, "Marks":50},
+    {"name" : "Anita", "Class":"B.tech", "RollNo":106, "Marks":80},
+    {"name" : "Varun", "Class":"BCA", "RollNo":107, "Marks":70}]
+    
